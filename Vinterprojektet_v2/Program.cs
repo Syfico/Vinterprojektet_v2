@@ -2,9 +2,7 @@
 Console.WriteLine
 (@"
 
-
+checkpoint
 
 ");
-
-Console.ReadLine();
 
