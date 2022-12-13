@@ -6,3 +6,4 @@ checkpoint
 
 ");
 
+Console.ReadLine();
