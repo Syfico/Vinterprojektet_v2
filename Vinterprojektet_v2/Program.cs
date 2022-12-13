@@ -4,7 +4,6 @@ Console.WriteLine
 
 
 
-
 ");
 
 Console.ReadLine();
